@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=FARC%202025%20-%20bencatorz.tle-nl-Sản%20phẩm:%20(tên%20sản%20phẩm)&fontAlignY=34&fontSize=50">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=FARC%202025%20-%20bencatorz.tle-nl-Sản%20phẩm:%20Trắc%20nghiệm%20nghề%20nghiệp%20Holland-nl-trên%20nền%20tảng%20AWS%20PartyRock&fontSize=35&fontAlign=50&fontAlignY=27&desc=Trắc%20nghiệm%20nghề%20nghiệp%20theo%20mật%20mã%20Holland&descAlignY=63">
 </p>
 
-# FARC 2025 - Bài dự thi: (tên sản phẩm)
-(giới thiệu sơ bộ về sản phẩm)
+# FARC 2025 - Bài dự thi: Trắc nghiệm giải mã nghề nghiệp theo mật mã Holland trên nền tảng PartyRock
+Trong thời đại công nghệ số hiện nay, càng ngày càng có nhiều nghề nghiệp mới đang được hình thành, gây ra sự rối loạn trong việc định hướng nghề nghiệp của giới trẻ. Thấu hiểu khó khăn này, chúng em - đội bencatorz.tle thuộc trường THPT Bến Cát - đã phát triển một sản phẩm hỗ trợ định hướng nghề nghiệp thông qua một bải trắc nghiệm mật mã Holland ngắn, trên nền tảng PartyRock, một sân chơi AI thân thiện dành cho người bắt đầu tiếp cận với trí tuệ nhân tạo.
 ***
 ## Thông tin đội:
 * 📑 **Tên đội:** bencatorz.tle (thuộc bảng ...)
