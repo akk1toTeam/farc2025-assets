@@ -33,55 +33,74 @@ Sản phẩm trắc nghiệm nghề nghiệp Holland giúp người dùng khám 
 - Kết nối dữ liệu thị trường lao động – AI cập nhật xu hướng nghề nghiệp, mức lương và cơ hội việc làm.
 
 ### Cách xây dựng sản phẩm:
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit neque ut ante volutpat, nec tincidunt sapien maximus. Donec eget magna sagittis, varius turpis id, euismod mauris. Curabitur ac erat vitae odio ullamcorper tristique. Maecenas vel leo a diam lacinia lacinia. Morbi blandit metus in augue ultricies accumsan. Integer at arcu feugiat, scelerisque ante eu, placerat nunc. Donec tincidunt lectus mauris, ut suscipit lectus varius et. Sed et sem et nunc bibendum bibendum. Maecenas aliquam magna vel lectus suscipit, sed viverra sem tempor. Etiam tristique lobortis elit, quis pharetra nisi euismod nec. Cras at est mauris...
-(thông số kĩ thuật dự án)
-```txt
-Sử dụng model: (model)
-Temperature 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜   94.03 %
-...         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.15 %
-...         ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.51 %
-```
+Chúng em đã tiến hành nghiên cứu về cơ cấu bài trắc nghiệm nghề nghiệp Holland, từ đó xây dựng cơ cấu của sản phẩm. Thông qua tìm hiểu sơ bộ, chúng em nhận thấy rằng cơ cấu bài trắc nghiệm nghề nghiệp Holland bao gồm 6 bộ câu hỏi, mỗi bộ câu hỏi tương ứng với các nghề, được gọi tắt là **RIASEC**. Các nhóm nghề được phân ra như sau:
++ R - Reliastic (Kĩ thuật): Là nhóm nghề thích làm việc với các vật cụ thể, máy móc, hay các hoạt động ngoài trời.
++ I - Investigative (Nghiên cứu): Là nhóm nghề thích quan sát, tìm tòi, học hỏi, khám phá, nhận xét hay đánh giá vấn đề.
++ A - Artistic (Nghệ thuật): Là nhóm nghề có khả năng nghệ thuật, sáng tác, trực giác và thích làm việc trong các tình huống không có kế hoạch trước như dùng trí tưởng tượng và sáng tạo.
++ S - Social (Xã hội): Là nhóm nghề thích làm việc cung cấp hoặc làm sáng tỏ thông tin, thích giúp đỡ, huấn luyện, chữa trị hoặc chăm sóc sức khỏe cho người khác; có khả năng về ngôn ngữ.
++ E - Enterprising (Quản lí): Là nhóm nghề thích làm việc với những người khác, có khả năng tác động, thuyết phục, thể hiện, lãnh đạo hoặc quản lí các mục tiêu của tổ chức, các lợi ích kinh tế.
++ C - Conventional (Nghiệp vụ): Là nhóm nghề thích làm việc với dữ liệu, con số, có khả năng làm việc văn phòng, thống kê; thực hiện các công việc đòi hỏi chi tiết, tỉ mỉ, cẩn thận hoặc làm theo hướng dẫn của người khác
+
+Từ đó, chúng em tiến hành xây dựng ứng dụng trên nền tảng PartyRock. Mỗi nhóm nghề sẽ có một bộ câu hỏi được thiết lập sẵn hoặc được tạo ra bởi trợ lý AI được tích hợp trong sản phẩm. Bộ câu hỏi & trả lời được xây dựng như sau:
+
+![image](https://github.com/user-attachments/assets/23a68560-5806-4bd3-ae62-54e246fca78f)
+
+<p align="center">Giao diện bộ hỏi & đáp trắc nghiệm Holland</p>
+
++ Ô câu hỏi: hiển thị ra 5 câu hỏi lấy từ bộ câu hỏi thiết lập sẵn hoặc tạo thêm bởi trợ lý AI, với mục đích xác định nghành nghề hợp với người dùng, thông qua việc người dùng trả lời những câu hỏi rằng mình có thích/không thích hoạt động được đưa ra hay không.
++ Ô hiện kết quả: hiện thị kết quả sau khi người dùng trả lời hết 5 câu hỏi được đưa ra dưới dạng điểm số. Cách tính điểm như sau:
+
+| --- Rất không thích --- | --- Không thích --- | --- Bình thường --- |  --- Thích ---  | --- Rất thích --- |
+|:---------------:|:-----------:|:-----------:|:-------:|:---------:|
+|     +1 điểm     |   +2 điểm   |   +3 điểm   | +4 điểm |  +5 điểm  |
+
+> [!Note]
+> Điểm được tính theo mỗi câu theo cách tính như bảng trên, xong tính tổng lại và in ra kết quả
+
++ Ô nhập câu trả lời của người dùng: người dùng sẽ lựa chọn câu trả lời hợp với mình nhất. Có 5 câu trả lời có thể chọn: Rất không thích, không thích, bình thường, thích, rất thích.
+
+Sau khi người dùng thực hiện xong bài trắc nghiệm, người dùng sẽ nhận kết quả ở khung chat với trợ lý AI ở cuối sản phẩm. Người dùng còn có thể hỏi trợ lý AI những câu hỏi mà mình thắc mắc, và trợ lý AI sẽ giải đáp những câu hỏi người dùng đưa ra.
+
+![image](https://github.com/user-attachments/assets/d6b0ecdf-7359-4cbb-ba03-6f0c3d4a08c9)
+
+<p align="center">Giao diện phần hỏi & đáp với trợ lý AI</p>
+
+
 ### Thách thức gặp phải khi xây dựng sản phẩm
-1. Xử lý dữ liệu đa dạng và cá nhân hóa
-- Người dùng có sở thích, kỹ năng và định hướng nghề nghiệp khác nhau, đòi hỏi AI phải cá nhân hóa kết quả một cách chính xác.
-- Dữ liệu đầu vào có thể không đồng nhất, gây khó khăn trong việc chuẩn hóa và phân loại để đưa ra gợi ý phù hợp.
-2. Tích hợp AI hiệu quả
-- Machine learning cần được huấn luyện với dữ liệu đủ lớn để đảm bảo độ chính xác của kết quả trắc nghiệm.
-- Chatbot AI phải có khả năng hiểu ngữ cảnh và phản hồi tự nhiên, tránh đưa ra câu trả lời chung chung hoặc không liên quan.
-3. Giao diện thân thiện và trải nghiệm người dùng
-- Thiết kế giao diện phải trực quan, dễ sử dụng, giúp người dùng hoàn thành trắc nghiệm một cách thuận tiện.
-- Cần tối ưu hóa UX/UI để đảm bảo người dùng không cảm thấy nhàm chán hoặc khó hiểu khi sử dụng sản phẩm.
-4. Cập nhật dữ liệu thị trường lao động
-- Nghề nghiệp liên tục thay đổi, AI cần học hỏi và cập nhật xu hướng mới để đưa ra gợi ý chính xác.
-- Việc kết nối với nguồn dữ liệu đáng tin cậy là một thách thức lớn để đảm bảo thông tin luôn cập nhật.
-5. Độ chính xác và tin cậy của mô hình
-- AI có thể gặp lỗi trong việc phân loại nhóm nghề nghiệp, dẫn đến kết quả không phản ánh đúng sở thích và năng lực của người dùng.
-- Cần có cơ chế kiểm thử và tinh chỉnh liên tục để cải thiện độ chính xác của mô hình.
-6. Tích hợp trên nền tảng PartyRock
-- PartyRock là một nền tảng AI thân thiện, nhưng vẫn có giới hạn về tùy chỉnh và mở rộng tính năng.
-- Cần tối ưu hóa sản phẩm để phù hợp với khả năng xử lý của PartyRock, đảm bảo hiệu suất tốt nhất.
+Lúc chúng em thực hiện sản phẩm, chúng em đã gặp một số vấn đề trong khâu xây dựng & thiết lập sản phẩm, vì thế chúng em phải tìm kiếm giải pháp. Một số vấn đề chúng em gặp phải như sau:
+#### Vấn đề trong quá trình đào tạo AI cho sản phẩm
+Đôi lúc AI sẽ không hiểu rõ những gì chúng em cần nó thực hiện, thành ra chúng em phải viết nhiều prompt khác nhau và thử từng cái. Sau nhiều lần sửa đổi và thử nghiệm, chúng em đã đảm bảo được AI đã hoạt động đúng theo ý muốn, nhằm đưa ra kết quả đầu ra tốt nhất cho sản phẩm.
+#### Vấn đề trong quá trình xử lý dữ liệu
+Phương án ban đầu của chúng em là tính điểm tổng từ mỗi bộ câu hỏi, lưu vào 6 biến trong chương trình tương ứng với 6 điểm tổng của 6 nhóm nghề khác nhau. Tuy nhiên, tính năng lưu giá trị vào biến của PartyRock vẫn đang trong quá trình thử nghiệm, nên việc lưu giá trị đã gặp một số vấn đề không mong muốn (ví dụ điểm tổng là 12, hệ thống lại lưu vào là 2). Chúng em đành phải chuyển qua phương pháp lấy điểm tổng từ ô kết quả từng phần đem ra so sánh, từ đó xác định được nhóm nghề nào thích hợp nhất đối với người dùng.
+#### Vấn đề về số lượng Widget tối đa của PartyRock
+Tiêu chuẩn của một bộ câu hỏi của mỗi nhóm nghề thưởng từ 8 - 15 câu hỏi mỗi nhóm. Tuy nhiên PartyRock lại giới hạn chỉ có 50 ô Widget được sử dụng cho mỗi sản phẩm, bắt buộc chúng em phải tinh giản số câu hỏi từ 8 - 15 câu hỏi mỗi nhóm xuống thành 5 câu hỏi mỗi nhóm mà vẫn đảm bảo được chất lượng sử dụng sản phẩm.
 
 ### Kết quả:
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit neque ut ante volutpat, nec tincidunt sapien maximus. Donec eget magna sagittis, varius turpis id, euismod mauris. Curabitur ac erat vitae odio ullamcorper tristique. Maecenas vel leo a diam lacinia lacinia. Morbi blandit metus in augue ultricies accumsan. Integer at arcu feugiat, scelerisque ante eu, placerat nunc. Donec tincidunt lectus mauris, ut suscipit lectus varius et. Sed et sem et nunc bibendum bibendum. Maecenas aliquam magna vel lectus suscipit, sed viverra sem tempor. Etiam tristique lobortis elit, quis pharetra nisi euismod nec. Cras at est mauris...
+Sau thời gian thực hiện sản phẩm, sản phẩm "Trắc nghiệm giải mã nghề nghiệp theo mật mã Holland trên nền tảng PartyRock" đã hoàn thiện, đảm bảo đáp ứng được nhu cầu hỗ trợ giới trẻ trong việc định hướng nghề nghiệp trong tương lai. Với những câu hỏi trắc nghiệm đơn giản, cùng trợ lý AI được tích hợp trong sản phẩm, chúng em tin rằng sản phẩm "Trắc nghiệm giải mã nghề nghiệp theo mật mã Holland trên nền tảng PartyRock" là một sản phẩm ứng dụng AI hữu ích hỗ trợ việc định hướng nghề nghiệp cho giới trẻ thông qua bài trắc nghiệm mật mã Holland đơn giản.
 ### Sử dụng sản phẩm:
-1. Truy cập nền tảng
-- Người dùng mở sản phẩm thông qua đường link chính thức trên AWS PartyRock.
-- Đăng nhập hoặc sử dụng chế độ khách để bắt đầu trắc nghiệm.
-2. Thực hiện bài trắc nghiệm Holland
-- Hệ thống hiển thị các câu hỏi theo phương pháp RIASEC, giúp xác định nhóm tính cách nghề nghiệp.
-- Người dùng trả lời từng câu hỏi bằng cách chọn mức độ phù hợp với sở thích và kỹ năng của mình.
-3. Nhận kết quả phân tích từ AI
-- AI xử lý dữ liệu và phân loại người dùng vào nhóm nghề nghiệp phù hợp.
-- Hệ thống hiển thị danh sách nghề nghiệp đề xuất, kèm theo mô tả chi tiết về từng ngành.
-4. Tư vấn hướng nghiệp với chatbot AI
-- Người dùng có thể trò chuyện với chatbot AI để nhận tư vấn chuyên sâu về nghề nghiệp.
-- Chatbot cung cấp thông tin về xu hướng thị trường, mức lương trung bình và cơ hội phát triển.
-5. Khám phá thêm thông tin nghề nghiệp
-- Hệ thống kết nối với dữ liệu thị trường lao động để cập nhật thông tin mới nhất.
-- Người dùng có thể tìm hiểu về các kỹ năng cần thiết và lộ trình phát triển trong từng ngành nghề.
-6. Lưu kết quả và chia sẻ
-- Người dùng có thể lưu kết quả trắc nghiệm để tham khảo sau này.
-- Hệ thống hỗ trợ chia sẻ kết quả qua email hoặc mạng xã hội để nhận phản hồi từ bạn bè, gia đình.
+Để sử dụng sản phẩm, vui lòng thực hiện theo các bước sau:
+#### Bước 1: Truy cập nền tảng PartyRock để sử dụng sản phẩm
+Sử dụng trình duyệt web (Google Chrome, Edge,...) để truy cập vào sản phẩm thông qua [đường link này](https://partyrock.aws/u/akk1to/GPqzcxpPI/Holland-Quizizz).
+
+![image](https://github.com/user-attachments/assets/21bf5945-1d04-475f-bd31-5b4b565e0f56)
+
+<p align="center">Màn hình chính của sản phẩm</p>
+
+#### Bước 2: Thực hiện bải trắc nghiệm nghề nghiệp Holland
+Sau khi truy cập vào sản phẩm, bấm nút "Chạy chương trình" để bắt đầu thực hiện bài trắc nghiệm nghề nghiệp dưới dạng mật mã Holland
+
+> [!WARNING]
+> Vui lòng trả lời xong 5 câu hỏi của mỗi phần, xong nhấn nút "Play" hoặc tổ hợp phím Ctrl + Enter để kết quả được hiện ra và bộ câu hỏi tiếp theo được tạo. Tiếp tục làm thế tới khi hết 6 bộ câu hỏi để nhận được kết quả cuối cùng
+
+![image](https://github.com/user-attachments/assets/4e0f2385-642a-4390-ac80-37f55e84cea7)
+
+<p align="center">Trả lời câu hỏi</p>
+
+#### Step 3: Hỏi & đáp với trợ lý AI
+Sau khi hoàn thành 6 bộ câu hỏi, hãy trả lời 
+
+#### Step 4: Bước 4
+Lorem ipsum dolor sit amet...
 
 
 ### Kế hoạch phát triển tiếp theo:
