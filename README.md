@@ -3,14 +3,20 @@
 </p>
 
 # FARC 2025 - Bài dự thi: Trắc nghiệm giải mã nghề nghiệp theo mật mã Holland trên nền tảng PartyRock
-Trong thời đại công nghệ số hiện nay, càng ngày càng có nhiều nghề nghiệp mới đang được hình thành, gây ra sự rối loạn trong việc định hướng nghề nghiệp của giới trẻ. Thấu hiểu khó khăn này, chúng em - đội bencatorz.tle thuộc trường THPT Bến Cát - đã phát triển một sản phẩm hỗ trợ định hướng nghề nghiệp thông qua một bải trắc nghiệm mật mã Holland ngắn, trên nền tảng PartyRock, một sân chơi AI thân thiện dành cho người bắt đầu tiếp cận với trí tuệ nhân tạo.
+Trong thời đại công nghệ số hiện nay, có nhiều nghề nghiệp mới đang được hình thành, làm cho học sinh sinh viên khó khăn trong định hướng nghề nghiệp. Trên cơ sở này, chúng em - đội bencatorz.tle trường THPT Bến Cát - đã phát triển một sản phẩm hỗ trợ định hướng nghề nghiệp thông qua một bải trắc nghiệm mật mã Holland ngắn, với nền tảng PartyRock. Nền tảng PartyRock là một sân chơi AI thân thiện dành cho người bắt đầu tiếp cận với trí tuệ nhân tạo.
 ***
 ## Thông tin đội:
 * 📑 **Tên đội:** bencatorz.tle (thuộc bảng ...)
 * 🏫 **Trường:** THPT Bến Cát - Tỉnh Bình Dương
+* 👤 **Mentor:** Cô Phan Thị Thanh Trang - Giáo viên Tin Học - Trường THPT Bến Cát
 * 📒 **Leader:** Lê Anh Tuấn (akk1to.dev)
-* 👤 **Mentor:** Cô Phan Thị Thanh Trang - GVBM Tin Học trường THPT Bến Cát
-* 🧑‍💻 **Thành viên nhóm:** Lê Anh Tuấn (akk1to.dev), Vũ Minh Quân (quan08), Ngô Minh Triết (triet), Đỗ Anh Tú (dayylatuu)
+* 🧑‍💻 **Thành viên nhóm:**
+
+ 1. Lê Anh Tuấn (akk1to.dev)
+ 2. Vũ Minh Quân (quan08)
+ 3. Ngô Minh Triết (minhtrex08)
+ 4. Đỗ Anh Tú (dayylatuu)
+
 * 📧 **Email liên hệ:** <a href="akk1to.dev@gmail.com">**akk1to.dev@gmail.com**</a>
 ***
 ## Về sản phẩm dự thi:
@@ -96,7 +102,7 @@ Sau khi truy cập vào sản phẩm, bấm nút "Chạy chương trình" để 
 
 <p align="center">Trả lời câu hỏi</p>
 
-#### Step 3: Hỏi & đáp với trợ lý AI
+#### Bước 3: Hỏi & đáp với trợ lý AI
 Sau khi hoàn thành 6 bộ câu hỏi, trợ lý AI sẽ phân tích kết quả và bắt đầu một cuộc trò chuyện hỗ trợ tư vấn nghề nghiệp với người dùng, dựa trên nhóm nghề hợp với người dùng nhất.
 
 ![image](https://github.com/user-attachments/assets/b36336d5-dffd-417f-a798-8af5d2debc3f)
