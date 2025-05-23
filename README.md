@@ -15,9 +15,16 @@ Trong thời đại công nghệ số hiện nay, càng ngày càng có nhiều 
 ***
 ## Về sản phẩm dự thi:
 ### Bối cảnh:
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit neque ut ante volutpat, nec tincidunt sapien maximus. Donec eget magna sagittis, varius turpis id, euismod mauris. Curabitur ac erat vitae odio ullamcorper tristique. Maecenas vel leo a diam lacinia lacinia. Morbi blandit metus in augue ultricies accumsan. Integer at arcu feugiat, scelerisque ante eu, placerat nunc. Donec tincidunt lectus mauris, ut suscipit lectus varius et. Sed et sem et nunc bibendum bibendum. Maecenas aliquam magna vel lectus suscipit, sed viverra sem tempor. Etiam tristique lobortis elit, quis pharetra nisi euismod nec. Cras at est mauris...
+Việc xây dựng sản phẩm trắc nghiệm Holland có thể liên quan đến ứng dụng AI trong hướng nghiệp, giúp cá nhân xác định nhóm nghề nghiệp phù hợp dựa trên sở thích và năng lực của họ. Đây là một lĩnh vực tiềm năng, khi AI ngày càng được ứng dụng rộng rãi trong giáo dục và tư vấn nghề nghiệp.
+
 ### Ý tưởng:
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit neque ut ante volutpat, nec tincidunt sapien maximus. Donec eget magna sagittis, varius turpis id, euismod mauris. Curabitur ac erat vitae odio ullamcorper tristique. Maecenas vel leo a diam lacinia lacinia. Morbi blandit metus in augue ultricies accumsan. Integer at arcu feugiat, scelerisque ante eu, placerat nunc. Donec tincidunt lectus mauris, ut suscipit lectus varius et. Sed et sem et nunc bibendum bibendum. Maecenas aliquam magna vel lectus suscipit, sed viverra sem tempor. Etiam tristique lobortis elit, quis pharetra nisi euismod nec. Cras at est mauris...
+- Hệ thống trắc nghiệm thông minh – Sử dụng AI phân tích dữ liệu để đưa ra gợi ý nghề nghiệp chính xác hơn.
+- Chatbot tư vấn hướng nghiệp – AI trò chuyện và tư vấn nghề nghiệp theo sở thích, kỹ năng và xu hướng thị trường.
+- Ứng dụng NLP – AI hiểu câu trả lời, phân tích thông tin và giải thích chi tiết về các nhóm nghề nghiệp.
+- Gamification – Biến bài trắc nghiệm thành trò chơi tương tác, giúp người dùng khám phá nghề nghiệp thú vị hơn.
+- Dữ liệu thị trường lao động – Kết nối với dữ liệu thực tế để dự đoán xu hướng nghề nghiệp và cơ hội việc làm.
+
+
 ### Ứng dụng của sản phẩm:
 > [!WARNING]
 > Đây là một lưu ý trong dự án.
@@ -76,7 +83,12 @@ Lorem ipsum dolor sit amet...
 Lorem ipsum dolor sit amet...
 
 ### Kế hoạch phát triển tiếp theo:
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit neque ut ante volutpat, nec tincidunt sapien maximus. Donec eget magna sagittis, varius turpis id, euismod mauris. Curabitur ac erat vitae odio ullamcorper tristique. Maecenas vel leo a diam lacinia lacinia. Morbi blandit metus in augue ultricies accumsan. Integer at arcu feugiat, scelerisque ante eu, placerat nunc. Donec tincidunt lectus mauris, ut suscipit lectus varius et. Sed et sem et nunc bibendum bibendum. Maecenas aliquam magna vel lectus suscipit, sed viverra sem tempor. Etiam tristique lobortis elit, quis pharetra nisi euismod nec. Cras at est mauris...
+- Nghiên cứu & Xây dựng mô hình – Thu thập dữ liệu, phát triển AI phân tích kết quả trắc nghiệm.
+- Thiết kế & Phát triển – Xây dựng giao diện, tích hợp chatbot AI và NLP để tư vấn hướng nghiệp.
+- Kiểm thử & Tinh chỉnh – Chạy thử nghiệm, cải thiện độ chính xác và tối ưu trải nghiệm người dùng.
+- Triển khai & Truyền thông – Đưa sản phẩm vào thử nghiệm thực tế, quảng bá rộng rãi.
+- Mở rộng & Nâng cấp – Tích hợp dữ liệu thị trường lao động, nâng cấp AI để cá nhân hóa tư vấn.
+
 
 - [x] Mục tiêu đã xong
 - [ ] Mục tiêu chưa hoàn thiện
