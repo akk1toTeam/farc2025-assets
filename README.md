@@ -97,11 +97,11 @@ Sau khi truy cập vào sản phẩm, bấm nút "Chạy chương trình" để 
 <p align="center">Trả lời câu hỏi</p>
 
 #### Step 3: Hỏi & đáp với trợ lý AI
-Sau khi hoàn thành 6 bộ câu hỏi, hãy trả lời 
+Sau khi hoàn thành 6 bộ câu hỏi, trợ lý AI sẽ phân tích kết quả và bắt đầu một cuộc trò chuyện hỗ trợ tư vấn nghề nghiệp với người dùng, dựa trên nhóm nghề hợp với người dùng nhất.
 
-#### Step 4: Bước 4
-Lorem ipsum dolor sit amet...
+![image](https://github.com/user-attachments/assets/b36336d5-dffd-417f-a798-8af5d2debc3f)
 
+<p align="center">Chat với trợ lý AI</p>
 
 ### Kế hoạch phát triển tiếp theo:
 - Nghiên cứu & Xây dựng mô hình – Thu thập dữ liệu, phát triển AI phân tích kết quả trắc nghiệm.
@@ -110,21 +110,17 @@ Lorem ipsum dolor sit amet...
 - Triển khai & Truyền thông – Đưa sản phẩm vào thử nghiệm thực tế, quảng bá rộng rãi.
 - Mở rộng & Nâng cấp – Tích hợp dữ liệu thị trường lao động, nâng cấp AI để cá nhân hóa tư vấn.
 
-- [x] Mục tiêu đã xong
-- [ ] Mục tiêu chưa hoàn thiện
-
 ### Video, hình ảnh giới thiệu sản phẩm:
-(video để ở đây)
-(hình ảnh minh họa ở đây)
+...
 
 ### Trải nghiệm ngay sản phẩm:
-* **Link trải nghiệm sản phẩm**: [FARC 2025 - Tên sản phẩm](https://example.com)
+* **Link trải nghiệm sản phẩm**: [FARC 2025 - Trắc nghiệm giải mã nghề nghiệp theo mật mã Holland trên nền tảng PartyRock](https://partyrock.aws/u/akk1to/GPqzcxpPI/Holland-Quizizz)
 
 ***
 
 <p align="center">
   Xin cảm ơn ban giám khảo đã xem và nhận xét sản phẩm của chúng em!<br>
-  Sản phẩm: (name)<br>
+  Sản phẩm: Trắc nghiệm giải mã nghề nghiệp theo mật mã Holland trên nền tảng PartyRock<br>
   Thuộc đội: bencatorz.tle - THPT Bến Cát<br>
   FPT AI & ROBOTIC CHALLENGE 2025 - Vòng thi AI khu vực miền Nam - FPTU HCM Campus - 31/5/2025
 </p>
