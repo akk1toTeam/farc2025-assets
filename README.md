@@ -21,7 +21,7 @@ Trong thời đại công nghệ số hiện nay, có nhiều nghề nghiệp m�
 ***
 ## Về sản phẩm dự thi:
 ### Bối cảnh:
-Việc xây dựng sản phẩm trắc nghiệm Holland có thể liên quan đến ứng dụng AI trong hướng nghiệp, giúp cá nhân xác định nhóm nghề nghiệp phù hợp dựa trên sở thích và năng lực của họ. Đây là một lĩnh vực tiềm năng, khi AI ngày càng được ứng dụng rộng rãi trong giáo dục và tư vấn nghề nghiệp.
+Ngày nay, việc chọn nghề trở nên khó khăn hơn do sự xuất hiện của nhiều ngành nghề mới. Học sinh, sinh viên gặp nhiều trở ngại trong việc định hướng nghề nghiệp phù hợp với sở thích và kỹ năng. Để giải quyết vấn đề này, đội bencatorz.tle từ THPT Bến Cát đã phát triển một hệ thống trắc nghiệm dựa trên mật mã Holland, giúp cá nhân hóa lựa chọn nghề nghiệp bằng AI. 
 ### Ý tưởng:
 - Hệ thống trắc nghiệm thông minh – Sử dụng AI phân tích dữ liệu để đưa ra gợi ý nghề nghiệp chính xác hơn.
 - Chatbot tư vấn hướng nghiệp – AI trò chuyện và tư vấn nghề nghiệp theo sở thích, kỹ năng và xu hướng thị trường.
@@ -39,7 +39,7 @@ Sản phẩm trắc nghiệm nghề nghiệp Holland giúp người dùng khám 
 - Kết nối dữ liệu thị trường lao động – AI cập nhật xu hướng nghề nghiệp, mức lương và cơ hội việc làm.
 
 ### Cách xây dựng sản phẩm:
-Chúng em đã tiến hành nghiên cứu về cơ cấu bài trắc nghiệm nghề nghiệp Holland, từ đó xây dựng cơ cấu của sản phẩm. Thông qua tìm hiểu sơ bộ, chúng em nhận thấy rằng cơ cấu bài trắc nghiệm nghề nghiệp Holland bao gồm 6 bộ câu hỏi, mỗi bộ câu hỏi tương ứng với các nghề, được gọi tắt là **RIASEC**. Các nhóm nghề được phân ra như sau:
+Chúng em đã tiến hành nghiên cứu về cấu trúc bài trắc nghiệm nghề nghiệp Holland, từ đó xây dựng cấu trúc của sản phẩm. Thông qua tìm hiểu sơ bộ, chúng em nhận thấy rằng cấu trúc bài trắc nghiệm nghề nghiệp Holland bao gồm 6 bộ câu hỏi, mỗi bộ câu hỏi tương ứng với các nghề, được gọi tắt là **RIASEC**. Các nhóm nghề được phân ra như sau:
 + R - Reliastic (Kĩ thuật): Là nhóm nghề thích làm việc với các vật cụ thể, máy móc, hay các hoạt động ngoài trời.
 + I - Investigative (Nghiên cứu): Là nhóm nghề thích quan sát, tìm tòi, học hỏi, khám phá, nhận xét hay đánh giá vấn đề.
 + A - Artistic (Nghệ thuật): Là nhóm nghề có khả năng nghệ thuật, sáng tác, trực giác và thích làm việc trong các tình huống không có kế hoạch trước như dùng trí tưởng tượng và sáng tạo.
