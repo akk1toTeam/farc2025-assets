@@ -89,8 +89,3 @@ Trải nghiệm sản phẩm ngay:
   FPT AI & ROBOTIC CHALLENGE 2025 - Vòng thi AI khu vực miền Nam - FPTU HCM Campus - 31/5/2025
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer">
-</p>
-
-
