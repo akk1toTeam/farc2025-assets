@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=FARC%202025%20-%20bencatorz.tle-nl-Sản%20phẩm:%20Trắc%20nghiệm%20nghề%20nghiệp%20Holland-nl-trên%20nền%20tảng%20AWS%20PartyRock&fontSize=35&fontAlign=50&fontAlignY=27&desc=Trắc%20nghiệm%20nghề%20nghiệp%20theo%20mật%20mã%20Holland&descAlignY=63">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=FARC%202025%20-%20bencatorz.tle-nl-Nâng%20cao%20nhận%20thức%20về%20biến%20đổi%20khí%20hậu-nl-với%20sự%20trợ%20giúp%20của%20trợ%20lý%20AI&fontSize=40&fontAlignY=24&animation=fadeIn&desc=Tìm%20hiểu%20về%20biến%20đổi%20khí%20hậu%20thông%20qua%20trò%20chơi%20cùng%20với%20AI&descAlignY=66">
 </p>
 
 # FARC 2025 - Bài dự thi: Trắc nghiệm giải mã nghề nghiệp theo mật mã Holland trên nền tảng PartyRock
