@@ -63,13 +63,17 @@ Sau khi đã hoàn thành sản phẩm, chúng em rút ra được một số b�
 Sau quá trình triển khai, sản phẩm "Nâng cao nhận thức về biến đổi khí hậu với sự trợ giúp của trợ lý AI trên nền tảng PartyRock" đã hoàn thiện, đáp ứng mục tiêu truyền tải kiến thức và nâng cao ý thức bảo vệ môi trường, đặc biệt cho giới trẻ. Với các câu hỏi tương tác kết hợp trợ lý AI, sản phẩm mang đến trải nghiệm học tập sinh động, dễ hiểu và hiệu quả.
 Thông qua quá trình thực hiện, chúng em đã nâng cao hiểu biết về biến đổi khí hậu, học cách ứng dụng AI vào thực tiễn, đồng thời rèn luyện kỹ năng làm việc nhóm, tư duy sáng tạo và truyền đạt thông tin một cách rõ ràng, gần gũi.
 ### Hướng dẫn sử dụng sản phẩm
-Bước 1: Bắt đầu chạy sản phẩm
+
+**Bước 1:** Bắt đầu chạy sản phẩm
+
 Bắt đầu chạy sản phẩm để AI tạo ra tình huống giả định, từ đó người dùng sẽ đi tìm ra giải pháp để có thể giải quyết vấn đề.
 
-Bước 2: Tìm hiểu thực trạng của vấn đề
+**Bước 2:** Tìm hiểu thực trạng của vấn đề
+
 Người dùng sẽ trò chuyện cùng với những nhân vật người dân để tìm hiểu thực trạng vấn đề, từ đó đưa ra giải pháp.
 
-Bước 3: Trò chuyện với chuyên gia khí hậu để giải quyết vấn đề
+**Bước 3:** Trò chuyện với chuyên gia khí hậu để giải quyết vấn đề
+
 Người dùng sẽ đưa ra giải pháp cho chuyên gia khí hậu - đóng vai bởi AI - để chuyên gia đánh giá giải pháp & góp ý. Chuyên gia cũng sẽ đưa ra 5 giải pháp ví dụ gợi ý cho người dùng
 
 Trải nghiệm sản phẩm ngay:
