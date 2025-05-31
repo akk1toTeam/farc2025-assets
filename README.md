@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=FARC%202025%20-%20bencatorz.tle-nl-Nâng%20cao%20nhận%20thức%20về%20biến%20đổi%20khí%20hậu-nl-với%20sự%20trợ%20giúp%20của%20trợ%20lý%20AI&fontSize=40&fontAlignY=24&animation=fadeIn&desc=Tìm%20hiểu%20về%20biến%20đổi%20khí%20hậu%20thông%20qua%20trò%20chơi%20cùng%20với%20AI&descAlignY=66">
 </p>
+
 # FARC 2025 - Bài dự thi: Nâng cao nhận thức về biến đổi khí hậu với sự trợ giúp của trợ lý AI
 
 Sản phẩm này là một trò chơi nhỏ sử dụng AI. Người chơi sẽ vào vai trò là một người đưa ra giải pháp để giải quyết một vấn đề ô nhiễm môi trường ảnh hưởng tới biến đổi khí hậu. Người chơi sẽ tìm hiểu tình trạng của vấn đề ô nhiễm đó thông qua việc nói chuyện với 3 người dân sinh sống ở khu vực đó. Nhiệm vụ của người chơi là đề xuất phương án xử lý vấn đề ô nhiễm môi trường này. Trợ lý AI sẽ đánh giá giải pháp của người chơi và gợi ý cho người chơi một số giải pháp thiết thực để giải quyết vấn đề.
