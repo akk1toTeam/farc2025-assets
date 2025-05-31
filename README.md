@@ -21,7 +21,7 @@ Trong thời đại công nghệ số hiện nay, có nhiều nghề nghiệp m�
 ***
 ## Về sản phẩm dự thi:
 ### Bối cảnh:
-Ngày nay, việc chọn nghề trở nên khó khăn hơn do sự xuất hiện của nhiều ngành nghề mới. Học sinh, sinh viên gặp nhiều trở ngại trong việc định hướng nghề nghiệp phù hợp với sở thích và kỹ năng. Để giải quyết vấn đề này, đội bencatorz.tle từ THPT Bến Cát đã phát triển một hệ thống trắc nghiệm dựa trên mật mã Holland, giúp cá nhân hóa lựa chọn nghề nghiệp bằng AI. 
+Biến đổi khí hậu đang trở thành một trong những thách thức lớn nhất của nhân loại. Tuy nhiên, nhận thức của giới trẻ về vấn đề này vẫn còn hạn chế. Vì vậy, chúng em – đội bencatorz.tle đến từ trường THPT Bến Cát – đã xây dựng một sản phẩm giáo dục tương tác ứng dụng trí tuệ nhân tạo, giúp người dùng tìm hiểu về biến đổi khí hậu một cách thú vị và dễ hiểu, thông qua hình thức trò chơi tương tác với trợ lý AI trên nền tảng PartyRock.
 ### Ý tưởng:
 - Hệ thống trắc nghiệm thông minh – Sử dụng AI phân tích dữ liệu để đưa ra gợi ý nghề nghiệp chính xác hơn.
 - Chatbot tư vấn hướng nghiệp – AI trò chuyện và tư vấn nghề nghiệp theo sở thích, kỹ năng và xu hướng thị trường.
