@@ -74,6 +74,7 @@ Người dùng sẽ đưa ra giải pháp cho chuyên gia khí hậu - đóng va
 
 Trải nghiệm sản phẩm ngay:
 * **Link trải nghiệm sản phẩm**: [FARC 2025 - Nâng cao nhận thức về biến đổi khí hậu với sự trợ giúp của trợ lý AI](https://partyrock.aws/u/akk1to/jQV1Hs_C3/Nang-cao-nhan-thuc-ve-bien-djoi-khi-hau-voi-su-tro-giup-cua-tro-ly-AI)
+* **Link snapshot**: [FARC 2025 - Snapshot](https://partyrock.aws/u/akk1to/jQV1Hs_C3/Nang-cao-nhan-thuc-ve-bien-djoi-khi-hau-voi-su-tro-giup-cua-tro-ly-AI/snapshot/4FGEydkWU)
 
 ***
 
